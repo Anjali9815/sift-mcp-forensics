@@ -9,6 +9,8 @@
 
 ---
 
+![SIFT MCP Forensic Agent Dashboard](./docs/images/dashboard.png)
+
 ## Problem
 
 AI-powered attackers go from initial access to full domain control in [under 8 minutes](https://www.crowdstrike.com/blog/). Human incident responders are still pulling up their toolkit.
